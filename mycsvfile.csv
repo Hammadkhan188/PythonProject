@@ -1,0 +1,7 @@
+foodname,price,categoruy,main_ingrediant,quantity,status,country,saleprice
+Pizza,1000,itlian,feeta_bread,5,available,Pakistani,200
+Burger,500,cheese,chicken,10,not_available,Pakistani,300
+Broast,700,spicy,chicken,15,available,Pakistani,400
+Biryani,300,beef,beef,20,available,Pakistani,500
+Shawarma,250,turkish,marinated meat,25,not_available,Pakistani,150
+Pasta,150,italian,white sauce,25,not_available,Pakistani,350
